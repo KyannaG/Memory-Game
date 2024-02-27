@@ -14,3 +14,7 @@ body {
   margin: 10px;
   display: inline-block;
 }
+
+#game div:hover {
+  background-color: lightslategray;
+}
